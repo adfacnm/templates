@@ -1,0 +1,13 @@
+{
+	"name": "HttpServer1",
+	"properties": {
+		"description": "HttpServer1",
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/djpmsft/adf-ready-demo/master/moviesDB.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
