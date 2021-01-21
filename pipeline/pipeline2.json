@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "",
+					"notebookPath": "/adftutorial/mynotebook01",
 					"baseParameters": {
 						"input": "@pipeline().parameters.name"
 					}
