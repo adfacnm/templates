@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Notebook1",
+				"description": "Notebook1",
 				"type": "DatabricksNotebook",
 				"dependsOn": [],
 				"policy": {
