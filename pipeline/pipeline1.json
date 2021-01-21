@@ -60,7 +60,8 @@
 				]
 			},
 			{
-				"name": "dataflow1",
+				"name": "source1",
+				"description": "source1",
 				"type": "ExecuteDataFlow",
 				"dependsOn": [
 					{
